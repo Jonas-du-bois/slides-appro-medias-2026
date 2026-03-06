@@ -152,4 +152,6 @@ Etant donné que j'ai pris un sujet que je voudrais avoir pour mon TB mais que j
 #### PS :
 Tout les textes on été reformulé par l'IA [Gemini] ( j'écris gobalement très mal et je ne voulais pas que ce rapport soit une tané à lire )
 
+Lien du projet du git : [https://github.com/Jonas-du-bois/LivestreamApp-v3](https://github.com/Jonas-du-bois/LivestreamApp-v3)
+
 /* Jonas Du Bois - M52-1/2 - Capacitor JS - 2026-06-03 */
